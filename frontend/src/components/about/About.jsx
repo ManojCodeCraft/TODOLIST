@@ -9,26 +9,17 @@ const About = () => {
         </div>
 
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, ad? Non
-          animi facere vero nostrum qui repudiandae, nihil recusandae amet
-          quisquam dicta quos, praesentium ipsam libero distinctio ea, atque
-          deleniti? Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-          Distinctio rerum modi, velit iusto fuga necessitatibus dicta molestias
-          facere numquam natus quibusdam, error sunt. Eveniet iure modi est
-          recusandae, quasi ut?Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Amet, quae. Atque accusamus explicabo perferendis at
-          illum laudantium eos velit cumque vero, odio illo ipsum hic earum
-          alias cupiditate minima a! <br />
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, ad? Non
-          animi facere vero nostrum qui repudiandae, nihil recusandae amet
-          quisquam dicta quos, praesentium ipsam libero distinctio ea, atque
-          deleniti? Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-          Distinctio rerum modi, velit iusto fuga necessitatibus dicta molestias
-          facere numquam natus quibusdam, error sunt. Eveniet iure modi est
-          recusandae, quasi ut?Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Amet, quae. Atque accusamus explicabo perferendis at
-          illum laudantium eos velit cumque vero, odio illo ipsum hic earum
-          alias cupiditate minima a!
+          Welcome to our TodoList MERN Application! Our platform is designed to
+          help individuals and teams stay organized and productive by offering a
+          seamless task management experience. Built using the MERN stack
+          (MongoDB, Express, React, and Node.js), the app ensures fast
+          performance, reliability, and a user-friendly interface. Whether
+          you’re planning personal tasks or collaborating on team projects, our
+          app enables you to create, update, delete, and track tasks with ease.
+          We also provide features like setting deadlines, receiving reminders,
+          and categorizing tasks, making it the perfect productivity tool for
+          busy users. Our mission is to empower users to manage their time
+          efficiently and achieve their goals effortlessly.
         </p>
       </div>
     </div>
