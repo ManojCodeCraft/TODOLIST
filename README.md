@@ -4,10 +4,6 @@
 
 ---
 
-## 📽️ Demo
-
----
-
 ## 📌 Features
 
 - 🔐 JWT-based User Authentication
@@ -86,19 +82,6 @@ const handleAddTask = () => {
         .catch(err => console.error(err));
 };
 ```
-
-## 📸 Screenshots
-
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Task Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Update Task
-![Update Task](screenshots/update.png)
-
----
 
 ## 📈 Future Improvements
 
